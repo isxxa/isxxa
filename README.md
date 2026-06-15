@@ -1,16 +1,47 @@
-## Hi there 👋
+## Hi there 💻☕️
+<pre>[⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⡞⠉⠀⠉⢳⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀           Im Isabella :)
+⠀⠀⠀⠀⠀⠀⠀⢷⣀⢀⣆⢀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀           Aspiring Software Engineer based in Austin, Texas
+ ⠀⠀⠀⠀⠀⠀⠀⠉⠉⣠⠞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⡀⠀⠀⠀⠀⠀           I design and build whatever I can imagine.
+⠀⠀⠀⠀⠀⠀⠀⢀⢣⡞⣡⡴⠖⠒⢶⣄⠀⠀⠀⠀⠀⠀⠙⢿⡆⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⡉⣿⠀⡏⠀⠀⠀⠀⠙⣇⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀           My main tech stack is React, JavaScript, and Node.js.
+⠀⠀⠀⠀⠀⠀⠀⠁⢻⡄⣷⠀⠀⠀⢀⡀⡿⠆⠀⠀⠀⠀⠀⣸⠋⠀⠀⠀⠀          My favorite tools consist of figma, notion, blender, and procreate.
+⠀⠀⠀⠀⠀⠀⠀⠰⠮⠻⣜⢧⡀⠀⠿⠟⠁⠀⠀⠀⠀⣠⣾⢵⣇⣤⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠼⢯⡳⣄⠀⠀⠀⠀⠀⢀⡾⠉⠀⠀⠈⢳⠛⠂⠀          I'm currently building my skills in web development and UI/UX principles. 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠿⠻⣷⣄⠀⠀⠀⣼⠁⠀⢠⠄⠀⢈⣟⡁⠀          Overall I aim to keep learning about all the wonderful possibilities coding can take me..
+⠀⠀⠀⠀⠀⠀⠀⢀⡴⣒⣩⣭⣝⣒⠮⣝⣧⣄⠀⣯⠀⠀⠹⠧⢴⡿⠄⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⣎⣼⡋⠉⠈⠉⠙⠛⠶⣽⡻⣷⣿⡀⠀⠀⠀⢈⣁⣀⠀⠀         If you would like to take a look at any of my work visit my Portfolio or
+⠀⠀⠀⠀⠀⠀⠀⡗⣂⠀⠀⣀⡆⠀⠀⠀⠀⠈⠉⠙⠿⣆⠀⢠⡏⢁⢈⡆⠀          if you would like to contact me to collaborate, shoot me a message. 
+⠀⠀⠀⠀⠀⠀⠀⠘⠳⠭⠯⠿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠈⢷⡈⢧⡈⠉⠀⠀          https://isabellas-portfolio-cyan.vercel.app/
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣆⠁⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠞⠛⠶⣄⠀⠀⢿⣆⣤⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠃⢠⠀⠀⡿⠀⠀⡸⣿⠰⠆⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⡀⠀⠀⠀⠀⠈⠙⠒⠒⠒⠋⠀⢰⢻⢀⣏⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣧⠀⠉⠉⠁⠀⡰⠃⣿⠀⠓⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⡴⠟⠁⠈⢙⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠋⣾⢰⡍⠀
+⠀⠀⠀⠀⠀⠀⠀⣸⠁⠀⠀⠀⠻⠟⠀⠀⠀⠀⠀⠀⠀⠀⠐⠁⣼⢇⠷⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢿⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⣀⣴⣟⡘⠁⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠘⢧⡀⠀⠀⠀⠙⠿⢷⣶⣤⣤⡴⠶⣫⣿⠟⡬⠁⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠈⠓⢦⣀⠀⠀⠀⠀⠀⠀⣀⣤⣾⡿⣇⠛⠂⠀⠀⠀⠀
+⠠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠒⠒⠛⢋⣽⡿⡫⠶⠉⠀⠀⠀⠀⠀⠀
+⠀⠃⠤⢀⡀⣀⡀⣠⡄⠠⣶⡆⣀⡤⠖⣫⣾⣿⠻⠌⠋⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠈⠀⠉⠁⠙⠁⣠⡴⠚⣁⣴⣿⠟⣥⠝⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢀⡴⠞⠁⣠⣾⠿⣫⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢀⡴⠋⠀⣠⣾⠟⢡⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⣰⠟⠀⣠⡾⠋⠀⠀⡿⡆⠀⢀⡶⠛⠛⢶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⣼⠃⠀⣴⠟⠀⠀⠀⢰⡇⡇⠀⠘⣇⣀⡔⠀⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⣸⠃⠀⣼⠃⠀⠀⠀⠀⢸⡇⠘⢦⣀⠀⠀⣀⡴⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢀⡏⠀⢰⠃⠀⠀⡰⠀⠀⠸⣷⡀⠀⠈⠉⠉⠉⠀⠀⠀⠀⣤⠚⠉⠙⢦⡀⠀
+⢸⠇⠀⢸⠀⢀⠆⡇⠀⠀⠀⢣⠳⡀⠀⠀⠀⠀⠀⠀⠀⠀⢷⣷⠄⠀⠀⠹⡄
+⢸⡆⠀⢸⠀⣼⠁⣷⠀⠀⠀⠈⢧⠈⠒⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇
+⡇⠀⠀⠀⠶⠆⠹⣷⣄⠀⠀⠈⠻⣖⢤⣀⡀⠀⠀⢀⣠⣴⡿⠀⠿⠆⣰⠇
+⠸⠀⠀⠀⢶⡆⠀⠀⠉⣁⠀⠀⠀⠈⠳⣄⡉⢙⢛⢛⡏⣥⠘⢗⣠⠞⠁⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⠎⠀⠀⢀⣀⡀⠈⢦⠉⠓⠶⠶⠶⠒⠚⠉⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⡞⠉⠉⠙⣦⠈⢷⠠⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠘⡄⠀⠱⠴⠞⢀⡿⠂⢸⡇⠅⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠲⠤⠤⠴⠞⠁⠀⣼⡇⣛⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡿⢡⡍⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣶⠈⠁⠀⠀
+  ]</pre>⠀⠀⠀⠀⠀⠀⠀
 
-<!--
-**isxxa/isxxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
